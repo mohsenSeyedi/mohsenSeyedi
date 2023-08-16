@@ -29,7 +29,7 @@ Skills :
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql,mongodb,npm" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql,mongodb,NPM" />
   </a>
 </p>
 
