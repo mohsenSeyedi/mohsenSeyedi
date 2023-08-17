@@ -1,5 +1,5 @@
-<div id="header" align="">
-    <h1>
+
+<h1>
   hey there Im Mohsen Seyedi 👋
 </h1>
 
@@ -19,13 +19,9 @@
   </a>
    
 
-</div>
+-----
 
-</div>
-
----
-
-Skills :
+#### Skills :
 
 <p align="">
   <a href="https://skillicons.dev">
@@ -34,4 +30,16 @@ Skills :
 </p>
 
 ---
+
+
+
+
+#### Softwares
+
+<div>
+  <a href="https://code.visualstudio.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/color/48/null/visual-studio-code-2019.png" />
+  <a href="https://www.postman.com/" target="_blank"><img class="icon" align="left" alt="Visual Studio Code" width="32px" src="https://img.icons8.com/?size=512&id=EPbEfEa7o8CB&format=png" />
+
+
+</div>
 
