@@ -6,17 +6,18 @@
  <h4>I am a junior Front End Developer</h4>
 
 ------
-<h4>Ways to contact me :</h4>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/mohsen-seyedi-542a87275">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  ### Ways Of Communication With Me :
+<p>
+  <a href="https://www.linkedin.com/in/mohsenseyedi" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="35" alt="linkedin logo" style="max-width: 100%;">
   </a>
-  <a href="https://instagram.com/mohsenseyedi1382">
-    <img src="https://img.shields.io/badge/instagram-crimson?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="mohsenseyedi1382@gmil.com">
-    <img src="https://img.shields.io/badge/gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail Badge"/>
-  </a>
+ <a href="http://T.me/Mohsenseis">
+     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="35" alt="telegram logo" style="max-width: 100%;">
+ </a>
+   <a href="http://www.instagram.com/mohsenseyedi1382" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" /></a>
+</p>
+
+
    
 
 -----
