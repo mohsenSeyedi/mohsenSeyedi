@@ -6,7 +6,7 @@
  <img src="https://github.com/halfrost/halfrost/raw/master/icons/header_.png" alt="" style="max-width: 100%;">
 
 ## About Me 😃
-#### Frontend Developer with 1 year experience in web design and UI development using latest web technologies. High skill in wireframe formatting, design and creative development using professional **HTML CSS JavaScript** 👨‍💻
+#### Frontend Developer with 1 year experience in web design  using latest web technologies. High skill in wireframe formatting, design and creative development using professional HTML CSS JavaScript 👨‍💻** 👨‍💻
 ------
  
 
