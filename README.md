@@ -13,7 +13,7 @@
 
 ### Ways Of Communication With Me :
 <p>
-  <a href="https://www.linkedin.com/in/mohsenseyedi" rel="nofollow">
+  <a href="https://www.linkedin.com/in/mohsen-seyedi-542a87275/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="35" alt="linkedin logo" style="max-width: 100%;">
   </a>
  <a href="http://T.me/Mohsenseis">
