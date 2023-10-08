@@ -30,7 +30,7 @@
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,mysql,mongodb" 
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mysql,mongodb" 
  height="42"/>
   </a>
 </p>
