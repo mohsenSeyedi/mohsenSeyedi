@@ -32,7 +32,7 @@
 
 <p align="">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,mui,supabase" 
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,mui,supabase" 
  height="42"/>
   </a>
 </p>
