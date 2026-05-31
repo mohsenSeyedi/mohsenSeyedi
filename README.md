@@ -10,7 +10,7 @@
 
 ## About Me 😃
 ####
-Frontend developer with more than 1 year experience in web design using latest web technologies. High skill in wireframe formatting, design and creative development using professional JavaScript HTML CSS 👨‍💻** 👨‍💻
+
 ------
  
 
