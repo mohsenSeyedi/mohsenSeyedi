@@ -22,9 +22,7 @@
   </a>
  <a href="http://T.me/Mohsenseis">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="42" height="35" alt="telegram logo" style="max-width: 100%;">
- </a>
-   <a href="http://www.instagram.com/mohsenseyediii_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" /></a>
-</p>
+
 
    
 <br/>
